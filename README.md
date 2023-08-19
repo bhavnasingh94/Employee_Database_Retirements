@@ -1,5 +1,5 @@
 # Employee_Database_Retirements
-The purpose of this data was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
+The purpose of this data was to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
 ## Data
 the first query was for written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955
